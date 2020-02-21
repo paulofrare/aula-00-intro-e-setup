@@ -17,6 +17,7 @@ Use o GitHub para subir seus códigos e outros materiais; ou considere carregar 
 Serão usados:
 
 * O Kit de desenvolvimento para a plataforma e linguagem Java versão 8 (JDK-8);
+* PHP versão 7+;
 * A IDE Eclipse for Enterprise Java Developers;
 * O SGBD PostgreSQL e SQLite;
 
@@ -24,7 +25,7 @@ Para instalar o Java execute o seguinte comando no Ubuntu/Debian e derivados: `s
 
 O Eclipse é encontrado em <https://www.eclipse.org/downloads/packages/release/2019-12/r/eclipse-ide-enterprise-java-developers>.
 
-O PostgreSQL e SQLite podem ser instalados no Linux via `sudo apt-get install postgresql -y`. Para Windows, baixe-os nos links <https://www.postgresql.org/download/windows/> e <https://www.sqlite.org/download.html>. Se a versão 64bits não funcionar tente a de 32bits.
+O PHP, PostgreSQL, SQLite podem ser instalados no Linux via `sudo apt-get install postgresql sqlite3 sqlitebrowser php-cli php-sqlite3 -y`. Para Windows, baixe-os nos links <https://www.postgresql.org/download/windows/> e <https://www.sqlite.org/download.html>. Se a versão 64bits não funcionar tente a de 32bits. Para PHP no Windows, procure um pacote ou tente a sorte aqui <https://windows.php.net/download#php-7.4>.
 
 ## Bibliografias
 
@@ -36,7 +37,7 @@ Todas aulas estão disponíveis nos respectivos repositórios `aula-00-tema-da-a
 
 ## Atividades Avaliadas e Exercícios
 
-As avaliações serão submetidas através da plataforma GitHub Classroom em <https://classroom.github.com/classrooms/id-pendente/> nos respectivos repositórios `atividade-00-tema-da-aula`. Os estudantes deverão estar listados na organização <https://github.com/aps-2020-1>.
+As avaliações serão submetidas através da plataforma GitHub Classroom em <https://classroom.github.com/classrooms/61172637-aps-2020-1> nos respectivos repositórios `atividade-00-tema-da-aula`. Os estudantes deverão estar listados na organização <https://github.com/aps-2020-1>.
 
 ## Notas
 
