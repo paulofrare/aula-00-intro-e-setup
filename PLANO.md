@@ -4,49 +4,47 @@
 
 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)
 
-## Fundamentos da Computação (FC-2020-1)
+## Arquitetura e Projeto de Sistemas (APS-2020-1)
 
-Carga horária: 60h | 4 créditos | Semanas: 18 | Posição no QSL: 1º semestre
+Carga horária: 120h | 8 créditos | Semanas: 18 | Posição no QSL: 3º semestre
 
 Período letivo: março de 2020 à julho de 2020 (2020-1)
 
 Professor: Márcio Torres
 
-Horário de atendimento: <!-- TODO -->
+Horário de atendimento: TODO <!-- TODO -->
 
 ## Ementa
 
-Informática: evolução e conceitos. Introdução à organização do hardware. Funcionamento do CPU. Formas de representação numérica: base binária, octal, decimal e hexadecimal. Conversão entre bases numéricas. Organização da memória. Introdução ao software: conceito, classificação, construção do software. Introdução aos sistemas operacionais e seu uso. Aplicativos e utilitários. Introdução às redes de computadores.
+Arquitetura de sistemas. Projeto de Objetos e Modelagem de Domínio. Princípios de Projeto Orientado a Objetos. Padrões de projeto. Biblioteca de classes, API, Frameworks e componentes de software. Camadas de persistência com uso de SGBDs e Mapeamento Objeto-Relacional. Ferramentas para teste de software. Desenvolvimento colaborativo de aplicações.
 
 ## Objetivos
 
 Ao final dessa disciplina o estudante deve ser capaz de:
 
-- Saber um pouco da história da evolução da computação;
-- Saber como o hardware funciona e é organizado;
-- Saber fazer conversões numéricas das principais bases;
-- Saber quais são os tipos de softwares;
-- Saber fazer operações de arquivos e diretórios no sistema operacional;
-- Saber fazer uso da linha de comando;
-- Saber o que são redes;
-- Saber fazer testes de rede e configurações básicas;
+- Saber quais são os princípios e padrões de projeto e arquitetura;
+- Saber fazer uso dos principais padrões de projeto e arquitetura;
+- Saber fazer o projeto da aplicação observando princípios e boas práticas;
+- Saber o que é modularização, seus benefícios e pontos negativos;
+- Saber fazer a modularização com bibliotecas e frameworks;
+- Saber fazer testes, depurar e instrumentar programas;
 
-O estudante pode se apropriar das seguintes habilidades colaterais:
+Efeitos colaterais:
 
-- Ler textos técnicos de tutoriais, manuais, livros e outras fontes;
-- Escrever textos técnicos;
-- Raciocinar logicamente para desenvolver algoritmos e resolver problemas;
+- Saber fazer a busca e leitura dos textos técnicos de tutoriais, manuais, livros e outras fontes;
+- Saber fazer a documentação e escrita de textos técnicos;
+- Saber fazer conexões lógicas para desenvolver soluções computacionais;
 
 Espera-se que o estudante desenvolva as seguintes atitudes:
 
-- Ser cooperativo: aprender a trabalhar em equipe;
-- Ser autodidata: aprender a aprender;
-- Ser judicioso: aprender a fazer decisões difíceis;
-- Ser resiliente: aprender a lidar com situações críticas;
+- Saber ser cooperativo: aprender a trabalhar em equipe;
+- Saber ser autodidata: aprender a aprender;
+- Saber ser judicioso: aprender a fazer decisões difíceis;
+- Saber ser resiliente: aprender a lidar com situações críticas;
 
 ## Conteúdo programático
 
-- História;
+- Introdução;
 - <!-- TODO -->
 
 ## Metodologia
@@ -54,16 +52,16 @@ Espera-se que o estudante desenvolva as seguintes atitudes:
 - Aulas dialogadas, usando o quadro, projeção de slides e de códigos-fonte, recursos audiovisuais, multimídia, e muitos exemplos práticos;
 - Atividades em aula com a utilização de situações/problema, estudos de caso e condução de pequenos projetos;
 - Atividades para resolução em casa (tema);
-- Parte da da aula com abordagem mais teórica e científica;
+- Parte da aula com abordagem mais teórica e científica;
 - Outra parte com abordagem mais prática e tecnológica;
 - Atividades avaliadas e não-avaliadas para serem resolvidas em equipes aleatórias, para treinar cooperatividade, convivência e espírito de grupo;
-- Disponibilização de materiais, resumos, livros, artigos, exemplos extras e outros recursos no repositório da disciplina em <https://github.com/fc-2020-1/> e app de comunicação em <https://fc-2020-1.slack.com>;
+- Disponibilização de materiais, resumos, livros, artigos, exemplos extras e outros recursos no repositório da disciplina em <https://github.com/aps-2020-1/> e app de comunicação em <https://aps-2020-1.slack.com>;
 - Algumas avaliações baseadas em atividades com prazos muito curtos para treinar resiliência e outras com prazos muito longos para treinar autodisciplina;
 - Algumas avaliações baseadas em atividades com pouca informação inicial para treinar autodidatismo e proatividade;
 
 ## Oportunidades de Integração Curricular
 
-Possibilidade de integrar com as disciplinas de Lógica de Programação, para criação de projeto integrador no último mês de aula, unindo algoritmos e resolução de problemas vistos em fundamentos.
+Possibilidade de integrar com as disciplinas de Desenvolvimento para Web I, para criação de projeto integrador no último mês de aula, unindo padrões e princípios de projeto e arquitetura no desenvolvimento de aplicativos para internet. Ao mesmo tempo, é possível usar os diagramas vistos na disciplina de Engenharia de Software na modelagem do aplicativo.
 
 ## Avaliações
 
@@ -76,8 +74,8 @@ Estão planejadas as seguintes avaliações:
 Composição da nota final:
 <!-- TODO -->
 - `7.5` pontos nas atividades avaliadas com peso crescente;
-- `2.5` pontos projeto final disciplina, se possível integrado com as disciplinas de Banco de Dados e Interfaces Web;
-- `0.2` por cada atividade extra paralela e por cada atividade regular entregue após o vencimento do prazo, todas computadas apenas no fim do semestre (25/novembro);
+- `2.5` pontos projeto final disciplina, se possível integrado com as disciplinas de Desenvolvimento para Web I e Engenharia de Software;
+- `0.2` por cada atividade extra paralela e por cada atividade regular entregue após o vencimento do prazo, todas computadas apenas no fim do semestre;
 
 ### Observações importantes
 
@@ -93,7 +91,7 @@ Os métodos, avaliações e a distribuição dos pesos podem variar conforme o a
 
 #### Quanto a prazos
 
-Cada um é responsável pelas suas atividades. Prazos não são estendidos, trabalhos entregues com atraso não são avaliados. Contudo, os prazos podem ser pré-negociados.
+Cada um é responsável pelas suas atividades. Prazos não são estendidos, trabalhos entregues com atraso são considerados extras apenas no fim do semestre. Contudo, os prazos podem ser pré-negociados.
 
 #### Quanto a pontualidade e faltas
 
@@ -113,7 +111,7 @@ Casos excepcionais são tratados comigo particularmente, e cada caso é um caso.
 
 ## Recomendações
 
-Fundamentos da Computação é uma disciplina essencial no curso de Análise e Desenvolvimento de Sistemas ... 
+Fundamentos da Computação é uma disciplina essencial no curso de Análise e Desenvolvimento de Sistemas ...
 <!-- TODO -->
 
 ## Bibliografia
@@ -132,7 +130,7 @@ Fundamentos da Computação é uma disciplina essencial no curso de Análise e D
 - Navegador Google Chrome;
 - Conta de E-mail;
 - Conta no GitHub <http://github.com> e inscrição na sala de aula <https://classroom.github.com/classrooms/id-pendente>;
-- Inscrição no grupo do Slack <https://fc-2020-1.slack.com>
+- Inscrição no grupo do Slack <https://aps-2020-1.slack.com>
 
 ____________________________
 Márcio Torres

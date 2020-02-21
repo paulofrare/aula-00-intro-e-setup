@@ -4,7 +4,7 @@
 
 Para saber o tema da disciplina, conteúdo, métodos de avaliação e mais, acesse o [Plano da Disciplina](https://github.com/aps-2020-1/aula-00-intro-e-setup/blob/master/PLANO.md).
 
-Para uma visão geral do _"monstro"_, olhar o mapa mental aqui <https://coggle.it/diagram/W4Bm9OGhIlmldaNG/t/id-pendente>.
+Para uma visão geral do _"monstro"_, olhar o mapa mental aqui <https://coggle.it/diagram/Xkv2Sy1cYnDojhiW/t/arquitetura-e-projeto-de-sistemas/af00d9f8c7a23c7ec89c09bbac3646a83785c66f41cea8509c97c170b225af02>.
 
 ## Contas
 
@@ -14,7 +14,17 @@ Use o GitHub para subir seus códigos e outros materiais; ou considere carregar 
 
 ## Softwares
 
-É necessário apenas o navegador Google Chrome.
+Serão usados:
+
+* O Kit de desenvolvimento para a plataforma e linguagem Java versão 8 (JDK-8);
+* A IDE Eclipse for Enterprise Java Developers;
+* O SGBD PostgreSQL e SQLite;
+
+Para instalar o Java execute o seguinte comando no Ubuntu/Debian e derivados: `sudo apt-get install openjdk-8-jdk -y`. Para Windows, instale de <https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html>.
+
+O Eclipse é encontrado em <https://www.eclipse.org/downloads/packages/release/2019-12/r/eclipse-ide-enterprise-java-developers>.
+
+O PostgreSQL e SQLite podem ser instalados no Linux via `sudo apt-get install postgresql -y`. Para Windows, baixe-os nos links <https://www.postgresql.org/download/windows/> e <https://www.sqlite.org/download.html>. Se a versão 64bits não funcionar tente a de 32bits.
 
 ## Bibliografias
 
