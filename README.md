@@ -4,7 +4,7 @@
 
 Para saber o tema da disciplina, conteúdo, métodos de avaliação e mais, acesse o [Plano da Disciplina](https://github.com/aps-2020-1/aula-00-intro-e-setup/blob/master/PLANO.md).
 
-Para uma visão geral do _"monstro"_, olhar o mapa mental aqui <https://coggle.it/diagram/W4Bm9OGhIlmldaNG/t/id-pendente>.
+Para uma visão geral do _"monstro"_, olhar o mapa mental aqui <https://coggle.it/diagram/W4Bm9OGhIlmldaNG>.
 
 ## Contas
 
