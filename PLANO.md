@@ -45,7 +45,15 @@ Espera-se que o estudante desenvolva as seguintes atitudes:
 ## Conteúdo programático
 
 - Introdução;
-- <!-- TODO -->
+- Projeto de Objetos;
+- Modelagem de Domínio;
+- Padrões de Projeto;
+- Arquitetura;
+- Padrões de Arquitetura;
+- Modularização;
+- ORM;
+- Testagem;
+- Desenvolvimento Colaborativo;
 
 ## Metodologia
 
@@ -111,7 +119,6 @@ Casos excepcionais são tratados comigo particularmente, e cada caso é um caso.
 
 ## Recomendações
 
-Fundamentos da Computação é uma disciplina essencial no curso de Análise e Desenvolvimento de Sistemas ...
 <!-- TODO -->
 
 ## Bibliografia
@@ -127,9 +134,14 @@ Fundamentos da Computação é uma disciplina essencial no curso de Análise e D
 - Sistema Operacional:
   - Microsoft Windows 7+ com Git ou CMDer (full) instalado
   - ou Linux (recomendado Ubuntu 16.04+);
+- SQLite3;
+- PostgreSQL;
+- PHP7+;
+- Java JDK-8+;
+- Eclipse IDE;
 - Navegador Google Chrome;
 - Conta de E-mail;
-- Conta no GitHub <http://github.com> e inscrição na sala de aula <https://classroom.github.com/classrooms/id-pendente>;
+- Conta no GitHub <http://github.com> e inscrição na sala de aula <https://classroom.github.com/classrooms/61172637-aps-2020-1>;
 - Inscrição no grupo do Slack <https://aps-2020-1.slack.com>
 
 ____________________________

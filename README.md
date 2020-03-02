@@ -4,7 +4,7 @@
 
 Para saber o tema da disciplina, conteúdo, métodos de avaliação e mais, acesse o [Plano da Disciplina](https://github.com/aps-2020-1/aula-00-intro-e-setup/blob/master/PLANO.md).
 
-Para uma visão geral do _"monstro"_, olhar o mapa mental aqui <https://coggle.it/diagram/Xkv2Sy1cYnDojhiW>.
+Mapa mental e visão geral <https://coggle.it/diagram/Xkv2Sy1cYnDojhiW>.
 
 ## Contas
 
@@ -29,7 +29,7 @@ O PHP, PostgreSQL, SQLite podem ser instalados no Linux via `sudo apt-get instal
 
 ## Bibliografias
 
-No plano de ensino há uma lista de bibliografias recomendadas.
+No plano de ensino há uma lista da [bibliografia recomendada](bibliografia.jpg).
 
 ## Conteúdos
 
