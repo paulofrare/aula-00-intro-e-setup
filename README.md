@@ -45,4 +45,4 @@ As notas nas atividades e provas estão no arquivo <https://github.com/aps-2020-
 
 ## Slack: link para inscrição
 
-<https://join.slack.com/t/aps-2020-1/shared_invite/id-pendente>
+<https://join.slack.com/t/aps-2020-1/shared_invite/enQtOTQ3MzA2MDA1NTg1LTAxZDJmNWU4N2YyYjJlMGU1MzA3OGE4MDU1OTBmYmM0M2YyZmZmNTIwMzdiMGUwMzU4YzkwOWEyOTMzODY5MGE>
